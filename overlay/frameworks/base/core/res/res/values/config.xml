@@ -108,6 +108,6 @@
     <!-- Whether UI for multi user should be shown -->
     <bool name="config_enableMultiUserUI">true</bool>
 	
-	<bool name="config_showNavigationBar">false</bool>
+    <bool name="config_showNavigationBar">false</bool>
 
 </resources>
