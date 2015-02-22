@@ -10,3 +10,5 @@ system/etc/wifi/nvram_net.txt_murata
 system/lib/hw/gps.default.so
 system/lib/libsec-ril.so
 system/lib/libwrappergps.so
+system/vendor/lib/mediadrm/libwvdrmengine.so
+system/vendor/lib/mediadrm/libdrmclearkeyplugin.so
